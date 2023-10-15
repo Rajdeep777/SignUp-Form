@@ -2,6 +2,8 @@
 
 This is a simple full-stack signup form that allows users to create an account and store their data in a database. It includes both the frontend and backend components.
 
+![image](https://github.com/Rajdeep777/SignUp-Form/assets/74129008/a922cdab-7922-4786-8975-89fed1fbad9e)
+
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
